@@ -1,1 +1,0 @@
-# agentic-honey.pot.detection
